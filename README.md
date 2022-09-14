@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python and Javascript
 - 💞️ I’m looking to collaborate on Web application development
-- 📫 How to reach me: drecson@gmail.com
+- 📫 How to reach me: drecson1@gmail.com
 
 <!---
 Drecson1/Drecson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
