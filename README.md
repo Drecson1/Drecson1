@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Drecson1
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on Web application development
+- 💞️ I’m looking to collaborate on Web Application development
 - 📫 How to reach me: drecson1@gmail.com
 
 <!---
